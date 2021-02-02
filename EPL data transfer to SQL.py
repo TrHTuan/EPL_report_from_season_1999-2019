@@ -10,7 +10,7 @@ pd.set_option('display.max_columns',None)
 #This is done by creating a list that would append the dataframe one by one
 
 #Create a common file path
-file_path = 'D:\Football data\EPL data _ 1999-2019\\'
+file_path = 'Common file path of the raw data goes here\'
 #Create an empty list
 list = []
 #Create a function to append data frame to the list:
@@ -62,7 +62,7 @@ for i in range(len(list)):
 # print(list[0])
 
 #Connect to mysql server:
-conn = pymysql.connect(database = 'epl_1', user = 'root', password = 'tr@ntu@n2808')
+conn = pymysql.connect(database = 'epl_1', user = 'MySQL server name goes here', password = 'MySQL server password goes here')
 csr = conn.cursor()
 
 #Create multiple table in mysql server using python:
