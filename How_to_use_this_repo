@@ -1,0 +1,17 @@
+So first thing first, I want to send a thank you to the owner of the data source for their work. Without it, I wouldn't have been able to complete this personal project of mine.
+Frankly, I wouldn't have anything to start with to be fully honest.
+
+The data that I use for this project can be found in the 'Data_source' folder. From this source of data, I'll transform it into something that I can use to 
+query an EPL report. A format of this usable tranformed data source can be found in the file 'Season_1999 transformed data.csv'. The code that I use to perform this process
+can be found in the file 'EPL data transfer to SQL.py'. This is the python file that I use not only to transform the data, but also to transfer the data to MySQL server.
+
+After the data has been transferred to MySQL server, I'll create another table as a simple way to store a tabulated data across the years. This can be found
+in the file 'Create table league_report.sql' and the output of that table can be found in the file 'EPL report _ 1999-2019.csv'
+
+As like the other repository, for my python code, I change the csv ile path as well as the connection to MySQL when I uploaded my file to this repository for personal reason,
+so if you download and use the file, make sure that you edit the python file before running the codes. For the SQL file, check with your server and see whether there are
+any conflicts in syntax or not. If you have any question on my work, feel free to contact me.
+
+P/S: After working with both MySQL and Python, I feel like I'm more comfortable using Python, especially when it comes to inserting data through loops,
+as I can just connect Python to MySQL and use Python syntax for loop, which I consider to be a lot more diverse compared to MySQL. Of course, there are pros
+and cons when I use Python instead of MySQL, and there is the fact that all I'm doing is for my own sake of personal interest and development.
