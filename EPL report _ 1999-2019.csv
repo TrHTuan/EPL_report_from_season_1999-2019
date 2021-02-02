@@ -1,0 +1,421 @@
+team,total_points,goal_for,goal_against,goal_difference,champion_year,champion_stt
+"Arsenal FC",73,73,43,30,2000,0
+"Aston Villa FC",58,46,35,11,2000,0
+"Bradford City AFC",36,38,68,-30,2000,0
+"Chelsea FC",65,53,34,19,2000,0
+"Coventry City FC",44,47,54,-7,2000,0
+"Derby County FC",38,44,57,-13,2000,0
+"Everton FC",50,59,49,10,2000,0
+"Leeds United FC",69,58,43,15,2000,0
+"Leicester City FC",55,55,55,0,2000,0
+"Liverpool FC",67,51,30,21,2000,0
+"Manchester United FC",91,97,45,52,2000,1
+"Middlesbrough FC",52,46,52,-6,2000,0
+"Newcastle United FC",52,63,54,9,2000,0
+"Sheffield Wednesday FC",31,38,70,-32,2000,0
+"Southampton FC",44,45,62,-17,2000,0
+"Sunderland AFC",58,57,56,1,2000,0
+"Tottenham Hotspur FC",53,57,49,8,2000,0
+"Watford FC",24,35,77,-42,2000,0
+"West Ham United FC",55,52,53,-1,2000,0
+"Wimbledon FC",33,46,74,-28,2000,0
+"Arsenal FC",70,63,38,25,2001,0
+"Aston Villa FC",54,46,43,3,2001,0
+"Bradford City AFC",26,30,70,-40,2001,0
+"Charlton Athletic FC",52,50,57,-7,2001,0
+"Chelsea FC",61,68,45,23,2001,0
+"Coventry City FC",34,36,63,-27,2001,0
+"Derby County FC",42,37,59,-22,2001,0
+"Everton FC",42,45,59,-14,2001,0
+"Ipswich Town FC",66,57,42,15,2001,0
+"Leeds United FC",68,64,43,21,2001,0
+"Leicester City FC",48,39,51,-12,2001,0
+"Liverpool FC",69,71,39,32,2001,0
+"Manchester City FC",34,41,65,-24,2001,0
+"Manchester United FC",80,79,31,48,2001,1
+"Middlesbrough FC",42,44,44,0,2001,0
+"Newcastle United FC",51,44,50,-6,2001,0
+"Southampton FC",52,40,48,-8,2001,0
+"Sunderland AFC",57,46,41,5,2001,0
+"Tottenham Hotspur FC",49,47,54,-7,2001,0
+"West Ham United FC",42,45,50,-5,2001,0
+"Arsenal FC",87,79,36,43,2002,1
+"Aston Villa FC",50,46,47,-1,2002,0
+"Blackburn Rovers FC",46,55,51,4,2002,0
+"Bolton Wanderers FC",40,44,62,-18,2002,0
+"Charlton Athletic FC",44,38,49,-11,2002,0
+"Chelsea FC",64,66,38,28,2002,0
+"Derby County FC",30,33,63,-30,2002,0
+"Everton FC",43,45,57,-12,2002,0
+"Fulham FC",44,36,44,-8,2002,0
+"Ipswich Town FC",36,41,64,-23,2002,0
+"Leeds United FC",66,53,37,16,2002,0
+"Leicester City FC",28,30,64,-34,2002,0
+"Liverpool FC",80,67,30,37,2002,0
+"Manchester United FC",77,87,45,42,2002,0
+"Middlesbrough FC",45,35,47,-12,2002,0
+"Newcastle United FC",71,74,52,22,2002,0
+"Southampton FC",45,46,54,-8,2002,0
+"Sunderland AFC",40,29,51,-22,2002,0
+"Tottenham Hotspur FC",50,49,53,-4,2002,0
+"West Ham United FC",53,48,57,-9,2002,0
+"Arsenal FC",78,85,42,43,2003,0
+"Aston Villa FC",45,42,47,-5,2003,0
+"Birmingham City FC",48,41,49,-8,2003,0
+"Blackburn Rovers FC",60,52,43,9,2003,0
+"Bolton Wanderers FC",44,41,51,-10,2003,0
+"Charlton Athletic FC",49,45,56,-11,2003,0
+"Chelsea FC",67,68,38,30,2003,0
+"Everton FC",59,48,49,-1,2003,0
+"Fulham FC",48,41,50,-9,2003,0
+"Leeds United FC",47,58,57,1,2003,0
+"Liverpool FC",64,61,41,20,2003,0
+"Manchester City FC",51,47,54,-7,2003,0
+"Manchester United FC",83,74,34,40,2003,1
+"Middlesbrough FC",49,48,44,4,2003,0
+"Newcastle United FC",69,63,48,15,2003,0
+"Southampton FC",52,43,46,-3,2003,0
+"Sunderland AFC",19,21,65,-44,2003,0
+"Tottenham Hotspur FC",50,51,62,-11,2003,0
+"West Bromwich Albion FC",26,29,65,-36,2003,0
+"West Ham United FC",42,42,59,-17,2003,0
+"Arsenal FC",90,73,26,47,2004,1
+"Aston Villa FC",56,48,44,4,2004,0
+"Birmingham City FC",50,43,48,-5,2004,0
+"Blackburn Rovers FC",44,51,59,-8,2004,0
+"Bolton Wanderers FC",53,48,56,-8,2004,0
+"Charlton Athletic FC",53,51,51,0,2004,0
+"Chelsea FC",79,67,30,37,2004,0
+"Everton FC",39,45,57,-12,2004,0
+"Fulham FC",52,52,46,6,2004,0
+"Leeds United FC",33,40,79,-39,2004,0
+"Leicester City FC",33,48,65,-17,2004,0
+"Liverpool FC",60,55,37,18,2004,0
+"Manchester City FC",41,55,54,1,2004,0
+"Manchester United FC",75,64,35,29,2004,0
+"Middlesbrough FC",48,44,52,-8,2004,0
+"Newcastle United FC",56,52,40,12,2004,0
+"Portsmouth FC",45,47,54,-7,2004,0
+"Southampton FC",47,44,45,-1,2004,0
+"Tottenham Hotspur FC",45,47,57,-10,2004,0
+"Wolverhampton Wanderers FC",33,38,77,-39,2004,0
+"Arsenal FC",83,87,36,51,2005,0
+"Aston Villa FC",47,45,52,-7,2005,0
+"Birmingham City FC",45,40,46,-6,2005,0
+"Blackburn Rovers FC",42,32,43,-11,2005,0
+"Bolton Wanderers FC",58,49,44,5,2005,0
+"Charlton Athletic FC",46,42,58,-16,2005,0
+"Chelsea FC",95,72,15,57,2005,1
+"Crystal Palace FC",33,41,62,-21,2005,0
+"Everton FC",61,45,46,-1,2005,0
+"Fulham FC",44,52,60,-8,2005,0
+"Liverpool FC",58,52,41,11,2005,0
+"Manchester City FC",52,47,39,8,2005,0
+"Manchester United FC",77,58,26,32,2005,0
+"Middlesbrough FC",55,53,46,7,2005,0
+"Newcastle United FC",44,47,57,-10,2005,0
+"Norwich City FC",33,42,77,-35,2005,0
+"Portsmouth FC",39,43,59,-16,2005,0
+"Southampton FC",32,45,66,-21,2005,0
+"Tottenham Hotspur FC",52,47,41,6,2005,0
+"West Bromwich Albion FC",34,36,61,-25,2005,0
+"Arsenal FC",67,68,31,37,2006,0
+"Aston Villa FC",42,42,55,-13,2006,0
+"Birmingham City FC",34,28,50,-22,2006,0
+"Blackburn Rovers FC",63,51,42,9,2006,0
+"Bolton Wanderers FC",56,49,41,8,2006,0
+"Charlton Athletic FC",47,41,55,-14,2006,0
+"Chelsea FC",91,72,22,50,2006,1
+"Everton FC",50,34,49,-15,2006,0
+"Fulham FC",48,48,58,-10,2006,0
+"Liverpool FC",82,57,25,32,2006,0
+"Manchester City FC",43,43,48,-5,2006,0
+"Manchester United FC",83,72,34,38,2006,0
+"Middlesbrough FC",45,48,58,-10,2006,0
+"Newcastle United FC",58,47,42,5,2006,0
+"Portsmouth FC",38,37,62,-25,2006,0
+"Sunderland AFC",15,26,69,-43,2006,0
+"Tottenham Hotspur FC",65,53,38,15,2006,0
+"West Bromwich Albion FC",30,31,58,-27,2006,0
+"West Ham United FC",55,52,55,-3,2006,0
+"Wigan Athletic FC",51,45,52,-7,2006,0
+"Arsenal FC",68,63,35,28,2007,0
+"Aston Villa FC",50,43,41,2,2007,0
+"Blackburn Rovers FC",52,52,54,-2,2007,0
+"Bolton Wanderers FC",56,47,52,-5,2007,0
+"Charlton Athletic FC",34,34,60,-26,2007,0
+"Chelsea FC",83,64,24,40,2007,0
+"Everton FC",58,52,36,16,2007,0
+"Fulham FC",39,38,60,-22,2007,0
+"Liverpool FC",68,57,27,30,2007,0
+"Manchester City FC",42,29,44,-15,2007,0
+"Manchester United FC",89,83,27,56,2007,1
+"Middlesbrough FC",46,44,49,-5,2007,0
+"Newcastle United FC",43,38,47,-9,2007,0
+"Portsmouth FC",54,45,42,3,2007,0
+"Reading FC",55,52,47,5,2007,0
+"Sheffield United FC",38,32,55,-23,2007,0
+"Tottenham Hotspur FC",60,57,54,3,2007,0
+"Watford FC",28,29,59,-30,2007,0
+"West Ham United FC",41,35,59,-24,2007,0
+"Wigan Athletic FC",38,37,59,-22,2007,0
+"Arsenal FC",83,74,31,43,2008,0
+"Aston Villa FC",60,71,51,20,2008,0
+"Birmingham City FC",35,46,62,-16,2008,0
+"Blackburn Rovers FC",58,50,48,2,2008,0
+"Bolton Wanderers FC",37,36,54,-18,2008,0
+"Chelsea FC",85,65,26,39,2008,0
+"Derby County FC",11,20,89,-69,2008,0
+"Everton FC",65,55,33,22,2008,0
+"Fulham FC",36,38,60,-22,2008,0
+"Liverpool FC",76,67,28,39,2008,0
+"Manchester City FC",55,45,53,-8,2008,0
+"Manchester United FC",87,80,22,58,2008,1
+"Middlesbrough FC",42,43,53,-10,2008,0
+"Newcastle United FC",43,45,65,-20,2008,0
+"Portsmouth FC",57,48,40,8,2008,0
+"Reading FC",36,41,66,-25,2008,0
+"Sunderland AFC",39,36,59,-23,2008,0
+"Tottenham Hotspur FC",46,66,61,5,2008,0
+"West Ham United FC",49,42,50,-8,2008,0
+"Wigan Athletic FC",40,34,51,-17,2008,0
+"Arsenal FC",72,68,37,31,2009,0
+"Aston Villa FC",62,54,48,6,2009,0
+"Blackburn Rovers FC",41,40,60,-20,2009,0
+"Bolton Wanderers FC",41,41,53,-12,2009,0
+"Chelsea FC",83,68,24,44,2009,0
+"Everton FC",63,55,37,18,2009,0
+"Fulham FC",53,39,34,5,2009,0
+"Hull City AFC",35,39,64,-25,2009,0
+"Liverpool FC",86,77,27,50,2009,0
+"Manchester City FC",50,58,50,8,2009,0
+"Manchester United FC",90,68,24,44,2009,1
+"Middlesbrough FC",32,28,57,-29,2009,0
+"Newcastle United FC",34,40,59,-19,2009,0
+"Portsmouth FC",41,38,57,-19,2009,0
+"Stoke City FC",45,38,55,-17,2009,0
+"Sunderland AFC",36,34,54,-20,2009,0
+"Tottenham Hotspur FC",51,45,45,0,2009,0
+"West Bromwich Albion FC",32,36,67,-31,2009,0
+"West Ham United FC",51,42,45,-3,2009,0
+"Wigan Athletic FC",45,34,45,-11,2009,0
+"Arsenal FC",75,83,41,42,2010,0
+"Aston Villa FC",64,52,39,13,2010,0
+"Birmingham City FC",50,38,47,-9,2010,0
+"Blackburn Rovers FC",50,41,55,-14,2010,0
+"Bolton Wanderers FC",39,42,67,-25,2010,0
+"Burnley FC",30,42,82,-40,2010,0
+"Chelsea FC",86,103,32,71,2010,1
+"Everton FC",61,60,49,11,2010,0
+"Fulham FC",46,39,46,-7,2010,0
+"Hull City AFC",30,34,75,-41,2010,0
+"Liverpool FC",63,61,35,26,2010,0
+"Manchester City FC",67,73,45,28,2010,0
+"Manchester United FC",85,86,28,58,2010,0
+"Portsmouth FC",28,34,66,-32,2010,0
+"Stoke City FC",47,34,48,-14,2010,0
+"Sunderland AFC",44,48,56,-8,2010,0
+"Tottenham Hotspur FC",70,67,41,26,2010,0
+"West Ham United FC",35,47,66,-19,2010,0
+"Wigan Athletic FC",36,37,79,-42,2010,0
+"Wolverhampton Wanderers FC",38,32,56,-24,2010,0
+"Arsenal FC",68,72,43,29,2011,0
+"Aston Villa FC",48,48,59,-11,2011,0
+"Birmingham City FC",39,37,58,-21,2011,0
+"Blackburn Rovers FC",43,46,59,-13,2011,0
+"Blackpool FC",39,55,78,-23,2011,0
+"Bolton Wanderers FC",46,52,56,-4,2011,0
+"Chelsea FC",71,69,33,36,2011,0
+"Everton FC",54,51,45,6,2011,0
+"Fulham FC",49,49,43,6,2011,0
+"Liverpool FC",58,59,44,15,2011,0
+"Manchester City FC",71,60,33,27,2011,0
+"Manchester United FC",80,78,37,41,2011,1
+"Newcastle United FC",46,56,57,-1,2011,0
+"Stoke City FC",46,46,48,-2,2011,0
+"Sunderland AFC",47,45,56,-11,2011,0
+"Tottenham Hotspur FC",62,55,46,9,2011,0
+"West Bromwich Albion FC",47,56,71,-15,2011,0
+"West Ham United FC",33,43,70,-27,2011,0
+"Wigan Athletic FC",42,40,61,-21,2011,0
+"Wolverhampton Wanderers FC",40,46,66,-20,2011,0
+"Arsenal FC",70,74,49,25,2012,0
+"Aston Villa FC",38,37,53,-16,2012,0
+"Blackburn Rovers FC",31,48,78,-30,2012,0
+"Bolton Wanderers FC",36,46,77,-31,2012,0
+"Chelsea FC",64,65,46,19,2012,0
+"Everton FC",56,50,40,10,2012,0
+"Fulham FC",52,48,51,-3,2012,0
+"Liverpool FC",52,47,40,7,2012,0
+"Manchester City FC",89,93,29,64,2012,1
+"Manchester United FC",89,89,33,56,2012,0
+"Newcastle United FC",65,56,51,5,2012,0
+"Norwich City FC",47,52,66,-14,2012,0
+"Queens Park Rangers FC",37,43,66,-23,2012,0
+"Stoke City FC",45,36,53,-17,2012,0
+"Sunderland AFC",45,45,46,-1,2012,0
+"Swansea City FC",47,44,51,-7,2012,0
+"Tottenham Hotspur FC",69,66,41,25,2012,0
+"West Bromwich Albion FC",47,45,52,-7,2012,0
+"Wigan Athletic FC",43,42,62,-20,2012,0
+"Wolverhampton Wanderers FC",25,40,82,-42,2012,0
+"Arsenal FC",73,72,37,35,2013,0
+"Aston Villa FC",41,47,69,-22,2013,0
+"Chelsea FC",75,75,39,36,2013,0
+"Everton FC",63,55,40,15,2013,0
+"Fulham FC",43,50,60,-10,2013,0
+"Liverpool FC",61,71,43,28,2013,0
+"Manchester City FC",78,66,34,32,2013,0
+"Manchester United FC",89,86,43,43,2013,1
+"Newcastle United FC",41,45,68,-23,2013,0
+"Norwich City FC",44,41,58,-17,2013,0
+"Queens Park Rangers FC",25,30,60,-30,2013,0
+"Reading FC",28,43,73,-30,2013,0
+"Southampton FC",41,49,60,-11,2013,0
+"Stoke City FC",42,34,45,-11,2013,0
+"Sunderland AFC",39,41,54,-13,2013,0
+"Swansea City FC",46,47,51,-4,2013,0
+"Tottenham Hotspur FC",72,66,46,20,2013,0
+"West Bromwich Albion FC",49,53,57,-4,2013,0
+"West Ham United FC",46,45,53,-8,2013,0
+"Wigan Athletic FC",36,47,73,-26,2013,0
+"Arsenal FC",79,68,41,27,2014,0
+"Aston Villa FC",38,39,61,-22,2014,0
+"Cardiff City FC",30,32,74,-42,2014,0
+"Chelsea FC",82,71,27,44,2014,0
+"Crystal Palace FC",45,33,48,-15,2014,0
+"Everton FC",72,61,39,22,2014,0
+"Fulham FC",32,40,85,-45,2014,0
+"Hull City AFC",37,38,53,-15,2014,0
+"Liverpool FC",84,101,50,51,2014,0
+"Manchester City FC",86,102,37,65,2014,1
+"Manchester United FC",64,64,43,21,2014,0
+"Newcastle United FC",49,43,59,-16,2014,0
+"Norwich City FC",33,28,62,-34,2014,0
+"Southampton FC",56,54,46,8,2014,0
+"Stoke City FC",50,45,52,-7,2014,0
+"Sunderland AFC",38,41,60,-19,2014,0
+"Swansea City FC",42,54,54,0,2014,0
+"Tottenham Hotspur FC",69,55,51,4,2014,0
+"West Bromwich Albion FC",36,43,59,-16,2014,0
+"West Ham United FC",40,40,51,-11,2014,0
+"Arsenal FC",75,71,36,35,2015,0
+"Aston Villa FC",38,31,57,-26,2015,0
+"Burnley FC",33,28,53,-25,2015,0
+"Chelsea FC",87,73,32,41,2015,1
+"Crystal Palace FC",48,47,51,-4,2015,0
+"Everton FC",47,48,50,-2,2015,0
+"Hull City AFC",35,33,51,-18,2015,0
+"Leicester City FC",41,46,55,-9,2015,0
+"Liverpool FC",62,52,48,4,2015,0
+"Manchester City FC",79,83,38,45,2015,0
+"Manchester United FC",70,62,37,25,2015,0
+"Newcastle United FC",39,40,63,-23,2015,0
+"Queens Park Rangers FC",30,42,73,-31,2015,0
+"Southampton FC",60,54,33,21,2015,0
+"Stoke City FC",54,48,45,3,2015,0
+"Sunderland AFC",38,31,53,-22,2015,0
+"Swansea City FC",56,46,49,-3,2015,0
+"Tottenham Hotspur FC",64,58,53,5,2015,0
+"West Bromwich Albion FC",44,38,51,-13,2015,0
+"West Ham United FC",47,44,47,-3,2015,0
+"AFC Bournemouth",42,45,67,-22,2016,0
+"Arsenal FC",71,65,36,29,2016,0
+"Aston Villa FC",17,27,76,-49,2016,0
+"Chelsea FC",50,59,53,6,2016,0
+"Crystal Palace FC",42,39,51,-12,2016,0
+"Everton FC",47,59,55,4,2016,0
+"Leicester City FC",81,68,36,32,2016,1
+"Liverpool FC",60,63,50,13,2016,0
+"Manchester City FC",66,71,41,30,2016,0
+"Manchester United FC",66,49,35,14,2016,0
+"Newcastle United FC",37,44,65,-21,2016,0
+"Norwich City FC",34,39,67,-28,2016,0
+"Southampton FC",63,59,41,18,2016,0
+"Stoke City FC",51,41,55,-14,2016,0
+"Sunderland AFC",39,48,62,-14,2016,0
+"Swansea City FC",47,42,52,-10,2016,0
+"Tottenham Hotspur FC",70,69,35,34,2016,0
+"Watford FC",45,40,50,-10,2016,0
+"West Bromwich Albion FC",43,34,48,-14,2016,0
+"West Ham United FC",62,65,51,14,2016,0
+"AFC Bournemouth",46,55,67,-12,2017,0
+"Arsenal FC",75,77,44,33,2017,0
+"Burnley FC",40,39,55,-16,2017,0
+"Chelsea FC",93,85,33,52,2017,1
+"Crystal Palace FC",41,50,63,-13,2017,0
+"Everton FC",61,62,44,18,2017,0
+"Hull City AFC",34,37,80,-43,2017,0
+"Leicester City FC",44,48,63,-15,2017,0
+"Liverpool FC",76,78,42,36,2017,0
+"Manchester City FC",78,80,39,41,2017,0
+"Manchester United FC",69,54,29,25,2017,0
+"Middlesbrough FC",28,27,53,-26,2017,0
+"Southampton FC",46,41,48,-7,2017,0
+"Stoke City FC",44,41,56,-15,2017,0
+"Sunderland AFC",24,29,69,-40,2017,0
+"Swansea City FC",41,45,70,-25,2017,0
+"Tottenham Hotspur FC",86,86,26,60,2017,0
+"Watford FC",40,40,68,-28,2017,0
+"West Bromwich Albion FC",45,43,51,-8,2017,0
+"West Ham United FC",45,47,64,-17,2017,0
+"AFC Bournemouth",44,45,61,-16,2018,0
+"Arsenal FC",63,74,51,23,2018,0
+"Brighton & Hove Albion FC",40,34,54,-20,2018,0
+"Burnley FC",54,36,39,-3,2018,0
+"Chelsea FC",70,62,38,24,2018,0
+"Crystal Palace FC",44,45,55,-10,2018,0
+"Everton FC",49,44,58,-14,2018,0
+"Huddersfield Town AFC",37,28,58,-30,2018,0
+"Leicester City FC",47,56,60,-4,2018,0
+"Liverpool FC",75,84,38,46,2018,0
+"Manchester City FC",100,106,27,79,2018,0
+"Manchester United FC",81,68,28,40,2018,1
+"Newcastle United FC",44,39,47,-8,2018,0
+"Southampton FC",36,37,56,-19,2018,0
+"Stoke City FC",33,35,68,-33,2018,0
+"Swansea City FC",33,28,56,-28,2018,0
+"Tottenham Hotspur FC",77,74,36,38,2018,0
+"Watford FC",41,44,64,-20,2018,0
+"West Bromwich Albion FC",31,31,56,-25,2018,0
+"West Ham United FC",42,48,68,-20,2018,0
+"AFC Bournemouth",45,56,70,-14,2019,0
+"Arsenal FC",70,73,51,22,2019,0
+"Brighton & Hove Albion FC",36,35,60,-25,2019,0
+"Burnley FC",40,45,68,-23,2019,0
+"Cardiff City FC",34,34,69,-35,2019,0
+"Chelsea FC",72,63,39,24,2019,0
+"Crystal Palace FC",49,51,53,-2,2019,0
+"Everton FC",54,54,46,8,2019,0
+"Fulham FC",26,34,81,-47,2019,0
+"Huddersfield Town AFC",16,22,76,-54,2019,0
+"Leicester City FC",52,51,48,3,2019,0
+"Liverpool FC",97,89,22,67,2019,0
+"Manchester City FC",98,95,23,72,2019,1
+"Manchester United FC",66,65,54,11,2019,0
+"Newcastle United FC",45,42,48,-6,2019,0
+"Southampton FC",39,45,65,-20,2019,0
+"Tottenham Hotspur FC",71,67,39,28,2019,0
+"Watford FC",50,52,59,-7,2019,0
+"West Ham United FC",52,52,55,-3,2019,0
+"Wolverhampton Wanderers FC",57,47,46,1,2019,0
+"AFC Bournemouth",34,40,65,-25,2020,0
+"Arsenal FC",56,56,48,8,2020,0
+"Aston Villa FC",35,41,67,-26,2020,0
+"Brighton & Hove Albion FC",41,39,54,-15,2020,0
+"Burnley FC",54,43,50,-7,2020,0
+"Chelsea FC",66,69,54,15,2020,0
+"Crystal Palace FC",43,31,50,-19,2020,0
+"Everton FC",49,44,56,-12,2020,0
+"Leicester City FC",62,67,41,26,2020,0
+"Liverpool FC",99,85,33,52,2020,1
+"Manchester City FC",81,102,35,67,2020,0
+"Manchester United FC",66,66,36,30,2020,0
+"Newcastle United FC",44,38,58,-20,2020,0
+"Norwich City FC",21,26,75,-49,2020,0
+"Sheffield United FC",54,39,39,0,2020,0
+"Southampton FC",52,51,60,-9,2020,0
+"Tottenham Hotspur FC",59,61,47,14,2020,0
+"Watford FC",34,36,64,-28,2020,0
+"West Ham United FC",39,49,62,-13,2020,0
+"Wolverhampton Wanderers FC",59,51,40,11,2020,0
