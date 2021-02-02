@@ -1,0 +1,381 @@
+year,Team_1,Team_1_goals,Team_1_score,Team_2,Team_2_goals,Team_2_score
+1999,"West Ham United FC",1,3,"Tottenham Hotspur FC",0,0
+1999,"Watford FC",2,0,"Wimbledon FC",3,3
+1999,"Sheffield Wednesday FC",1,0,"Liverpool FC",2,3
+1999,"Newcastle United FC",0,0,"Aston Villa FC",1,3
+1999,"Middlesbrough FC",0,0,"Bradford City AFC",1,3
+1999,"Leeds United FC",0,1,"Derby County FC",0,1
+1999,"Arsenal FC",2,3,"Leicester City FC",1,0
+1999,"Chelsea FC",4,3,"Sunderland AFC",0,0
+1999,"Coventry City FC",0,0,"Southampton FC",1,3
+1999,"Everton FC",1,1,"Manchester United FC",1,1
+1999,"Tottenham Hotspur FC",3,3,"Newcastle United FC",1,0
+1999,"Wimbledon FC",2,0,"Middlesbrough FC",3,3
+1999,"Sunderland AFC",2,3,"Watford FC",0,0
+1999,"Derby County FC",1,0,"Arsenal FC",2,3
+1999,"Southampton FC",0,0,"Leeds United FC",3,3
+1999,"Manchester United FC",4,3,"Sheffield Wednesday FC",0,0
+1999,"Leicester City FC",1,3,"Coventry City FC",0,0
+1999,"Aston Villa FC",3,3,"Everton FC",0,0
+1999,"Sunderland AFC",0,1,"Arsenal FC",0,1
+1999,"Tottenham Hotspur FC",3,3,"Everton FC",2,0
+1999,"Wimbledon FC",1,1,"Coventry City FC",1,1
+1999,"Manchester United FC",2,3,"Leeds United FC",0,0
+1999,"Liverpool FC",0,0,"Watford FC",1,3
+1999,"Leicester City FC",2,1,"Chelsea FC",2,1
+1999,"Derby County FC",1,0,"Middlesbrough FC",3,3
+1999,"Bradford City AFC",1,1,"Sheffield Wednesday FC",1,1
+1999,"Southampton FC",4,3,"Newcastle United FC",2,0
+1999,"Aston Villa FC",2,1,"West Ham United FC",2,1
+1999,"West Ham United FC",2,3,"Leicester City FC",1,0
+1999,"Watford FC",1,3,"Bradford City AFC",0,0
+1999,"Sheffield Wednesday FC",1,0,"Tottenham Hotspur FC",2,3
+1999,"Newcastle United FC",3,1,"Wimbledon FC",3,1
+1999,"Middlesbrough FC",1,3,"Liverpool FC",0,0
+1999,"Chelsea FC",1,3,"Aston Villa FC",0,0
+1999,"Everton FC",4,3,"Southampton FC",1,0
+1999,"Coventry City FC",2,3,"Derby County FC",0,0
+1999,"Leeds United FC",2,3,"Sunderland AFC",1,0
+1999,"Arsenal FC",1,0,"Manchester United FC",2,3
+1999,"Leeds United FC",1,0,"Liverpool FC",2,3
+1999,"Middlesbrough FC",0,0,"Leicester City FC",3,3
+1999,"Watford FC",0,0,"Aston Villa FC",1,3
+1999,"Sheffield Wednesday FC",0,0,"Derby County FC",2,3
+1999,"Newcastle United FC",1,0,"Sunderland AFC",2,3
+1999,"Everton FC",4,3,"Wimbledon FC",0,0
+1999,"Coventry City FC",1,0,"Manchester United FC",2,3
+1999,"Arsenal FC",2,3,"Bradford City AFC",0,0
+1999,"Wimbledon FC",0,0,"Chelsea FC",1,3
+1999,"Tottenham Hotspur FC",1,0,"Leeds United FC",2,3
+1999,"Southampton FC",2,3,"Sheffield Wednesday FC",0,0
+1999,"Liverpool FC",2,3,"Arsenal FC",0,0
+1999,"Derby County FC",1,3,"Everton FC",0,0
+1999,"Aston Villa FC",1,3,"Middlesbrough FC",0,0
+1999,"Bradford City AFC",0,0,"West Ham United FC",3,3
+1999,"Sunderland AFC",1,1,"Coventry City FC",1,1
+1999,"Manchester United FC",5,3,"Newcastle United FC",1,0
+1999,"Leicester City FC",1,3,"Watford FC",0,0
+1999,"Sunderland AFC",2,3,"Leicester City FC",0,0
+1999,"West Ham United FC",1,3,"Watford FC",0,0
+1999,"Wimbledon FC",2,1,"Derby County FC",2,1
+1999,"Sheffield Wednesday FC",0,0,"Everton FC",2,3
+1999,"Middlesbrough FC",3,3,"Southampton FC",2,0
+1999,"Liverpool FC",2,0,"Manchester United FC",3,3
+1999,"Arsenal FC",3,3,"Aston Villa FC",1,0
+1999,"Chelsea FC",1,3,"Newcastle United FC",0,0
+1999,"Coventry City FC",3,0,"Leeds United FC",4,3
+1999,"Bradford City AFC",1,1,"Tottenham Hotspur FC",1,1
+1999,"Aston Villa FC",1,3,"Bradford City AFC",0,0
+1999,"Southampton FC",0,0,"Arsenal FC",1,3
+1999,"Watford FC",1,3,"Chelsea FC",0,0
+1999,"Leicester City FC",2,1,"Liverpool FC",2,1
+1999,"Derby County FC",0,0,"Sunderland AFC",5,3
+1999,"Manchester United FC",1,1,"Wimbledon FC",1,1
+1999,"Tottenham Hotspur FC",3,3,"Coventry City FC",2,0
+1999,"Newcastle United FC",8,3,"Sheffield Wednesday FC",0,0
+1999,"Leeds United FC",2,3,"Middlesbrough FC",0,0
+1999,"Everton FC",1,3,"West Ham United FC",0,0
+1999,"Middlesbrough FC",0,0,"Chelsea FC",1,3
+1999,"Sunderland AFC",1,3,"Sheffield Wednesday FC",0,0
+1999,"Arsenal FC",1,3,"Watford FC",0,0
+1999,"Leicester City FC",3,3,"Aston Villa FC",1,0
+1999,"Leeds United FC",3,3,"Newcastle United FC",2,0
+1999,"Derby County FC",0,0,"Bradford City AFC",1,3
+1999,"Coventry City FC",1,3,"West Ham United FC",0,0
+1999,"Manchester United FC",3,1,"Southampton FC",3,1
+1999,"Wimbledon FC",1,1,"Tottenham Hotspur FC",1,1
+1999,"Liverpool FC",0,0,"Everton FC",1,3
+1999,"Sheffield Wednesday FC",5,3,"Wimbledon FC",1,0
+1999,"Everton FC",1,1,"Coventry City FC",1,1
+1999,"Bradford City AFC",0,0,"Sunderland AFC",4,3
+1999,"Aston Villa FC",0,1,"Liverpool FC",0,1
+1999,"West Ham United FC",2,3,"Arsenal FC",1,0
+1999,"Watford FC",1,0,"Leeds United FC",2,3
+1999,"Tottenham Hotspur FC",2,0,"Leicester City FC",3,3
+1999,"Chelsea FC",5,3,"Manchester United FC",0,0
+1999,"Newcastle United FC",2,3,"Middlesbrough FC",1,0
+1999,"Southampton FC",3,1,"Derby County FC",3,1
+1999,"Leicester City FC",2,3,"Southampton FC",1,0
+1999,"Manchester United FC",4,3,"Watford FC",1,0
+1999,"Liverpool FC",1,3,"Chelsea FC",0,0
+1999,"Arsenal FC",4,3,"Everton FC",1,0
+1999,"Leeds United FC",2,3,"Sheffield Wednesday FC",0,0
+1999,"Derby County FC",0,0,"Tottenham Hotspur FC",1,3
+1999,"Coventry City FC",4,3,"Newcastle United FC",1,0
+1999,"Wimbledon FC",3,3,"Bradford City AFC",2,0
+1999,"Middlesbrough FC",2,3,"West Ham United FC",0,0
+1999,"Sunderland AFC",2,3,"Aston Villa FC",1,0
+1999,"Southampton FC",1,1,"Liverpool FC",1,1
+1999,"Tottenham Hotspur FC",3,3,"Manchester United FC",1,0
+1999,"Sheffield Wednesday FC",0,1,"Coventry City FC",0,1
+1999,"Aston Villa FC",1,1,"Wimbledon FC",1,1
+1999,"Bradford City AFC",3,3,"Leicester City FC",1,0
+1999,"Chelsea FC",2,0,"Arsenal FC",3,3
+1999,"West Ham United FC",1,1,"Sunderland AFC",1,1
+1999,"Everton FC",4,1,"Leeds United FC",4,1
+1999,"Watford FC",1,0,"Middlesbrough FC",3,3
+1999,"Newcastle United FC",2,3,"Derby County FC",0,0
+1999,"Liverpool FC",1,3,"West Ham United FC",0,0
+1999,"Manchester United FC",3,3,"Aston Villa FC",0,0
+1999,"Arsenal FC",0,1,"Newcastle United FC",0,1
+1999,"Wimbledon FC",1,1,"Southampton FC",1,1
+1999,"Leicester City FC",3,3,"Sheffield Wednesday FC",0,0
+1999,"Leeds United FC",1,3,"West Ham United FC",0,0
+1999,"Derby County FC",3,3,"Chelsea FC",1,0
+1999,"Middlesbrough FC",2,3,"Everton FC",1,0
+1999,"Sunderland AFC",2,3,"Tottenham Hotspur FC",1,0
+1999,"Coventry City FC",4,3,"Watford FC",0,0
+1999,"Liverpool FC",3,3,"Bradford City AFC",1,0
+1999,"Middlesbrough FC",1,1,"Sunderland AFC",1,1
+1999,"Aston Villa FC",0,0,"Southampton FC",1,3
+1999,"Manchester United FC",2,3,"Leicester City FC",0,0
+1999,"Liverpool FC",2,3,"Derby County FC",0,0
+1999,"Bradford City AFC",1,1,"Coventry City FC",1,1
+1999,"Sheffield Wednesday FC",2,1,"Watford FC",2,1
+1999,"Wimbledon FC",2,3,"Leeds United FC",0,0
+1999,"Tottenham Hotspur FC",2,3,"Arsenal FC",1,0
+1999,"Newcastle United FC",1,1,"Everton FC",1,1
+1999,"Chelsea FC",0,1,"West Ham United FC",0,1
+1999,"Sunderland AFC",0,0,"Liverpool FC",2,3
+1999,"Watford FC",1,1,"Newcastle United FC",1,1
+1999,"Southampton FC",0,0,"Tottenham Hotspur FC",1,3
+1999,"Leicester City FC",2,3,"Wimbledon FC",1,0
+1999,"Leeds United FC",2,3,"Bradford City AFC",1,0
+1999,"Arsenal FC",5,3,"Middlesbrough FC",1,0
+1999,"Derby County FC",1,0,"Manchester United FC",2,3
+1999,"Everton FC",1,1,"Chelsea FC",1,1
+1999,"West Ham United FC",4,3,"Sheffield Wednesday FC",3,0
+1999,"Coventry City FC",2,3,"Aston Villa FC",1,0
+1999,"Coventry City FC",0,0,"Leicester City FC",1,3
+1999,"West Ham United FC",1,3,"Liverpool FC",0,0
+1999,"Middlesbrough FC",0,1,"Wimbledon FC",0,1
+1999,"Everton FC",0,1,"Aston Villa FC",0,1
+1999,"Watford FC",2,0,"Sunderland AFC",3,3
+1999,"Newcastle United FC",2,3,"Tottenham Hotspur FC",1,0
+1999,"Leeds United FC",1,3,"Southampton FC",0,0
+1999,"Chelsea FC",1,3,"Bradford City AFC",0,0
+1999,"Arsenal FC",2,3,"Derby County FC",1,0
+1999,"Sunderland AFC",4,3,"Chelsea FC",1,0
+1999,"Wimbledon FC",5,3,"Watford FC",0,0
+1999,"Aston Villa FC",0,0,"Newcastle United FC",1,3
+1999,"Manchester United FC",5,3,"Everton FC",1,0
+1999,"Leicester City FC",0,0,"Arsenal FC",3,3
+1999,"Bradford City AFC",1,1,"Middlesbrough FC",1,1
+1999,"Southampton FC",0,1,"Coventry City FC",0,1
+1999,"Derby County FC",0,0,"Leeds United FC",1,3
+1999,"Liverpool FC",4,3,"Sheffield Wednesday FC",1,0
+1999,"Tottenham Hotspur FC",0,1,"West Ham United FC",0,1
+1999,"Middlesbrough FC",2,3,"Tottenham Hotspur FC",1,0
+1999,"Watford FC",1,0,"Everton FC",3,3
+1999,"Sunderland AFC",2,3,"Southampton FC",0,0
+1999,"West Ham United FC",2,0,"Manchester United FC",4,3
+1999,"Liverpool FC",2,3,"Coventry City FC",0,0
+1999,"Leicester City FC",0,0,"Derby County FC",1,3
+1999,"Arsenal FC",1,1,"Wimbledon FC",1,1
+1999,"Aston Villa FC",2,3,"Sheffield Wednesday FC",1,0
+1999,"Bradford City AFC",2,3,"Newcastle United FC",0,0
+1999,"Chelsea FC",0,0,"Leeds United FC",2,3
+1999,"Wimbledon FC",2,1,"West Ham United FC",2,1
+1999,"Tottenham Hotspur FC",4,3,"Watford FC",0,0
+1999,"Southampton FC",1,0,"Chelsea FC",2,3
+1999,"Sheffield Wednesday FC",1,3,"Middlesbrough FC",0,0
+1999,"Newcastle United FC",2,1,"Liverpool FC",2,1
+1999,"Manchester United FC",4,3,"Bradford City AFC",0,0
+1999,"Leeds United FC",2,3,"Leicester City FC",1,0
+1999,"Coventry City FC",3,3,"Arsenal FC",2,0
+1999,"Derby County FC",0,0,"Aston Villa FC",2,3
+1999,"Everton FC",5,3,"Sunderland AFC",0,0
+1999,"West Ham United FC",1,1,"Derby County FC",1,1
+1999,"Arsenal FC",2,3,"Leeds United FC",0,0
+1999,"Bradford City AFC",0,1,"Everton FC",0,1
+1999,"Leicester City FC",1,0,"Newcastle United FC",2,3
+1999,"Watford FC",3,3,"Southampton FC",2,0
+1999,"Sunderland AFC",2,1,"Manchester United FC",2,1
+1999,"Liverpool FC",3,3,"Wimbledon FC",1,0
+1999,"Chelsea FC",3,3,"Sheffield Wednesday FC",0,0
+1999,"Aston Villa FC",1,1,"Tottenham Hotspur FC",1,1
+2000,"Sheffield Wednesday FC",1,1,"Arsenal FC",1,1
+2000,"Tottenham Hotspur FC",1,3,"Liverpool FC",0,0
+2000,"Southampton FC",1,3,"Bradford City AFC",0,0
+2000,"Wimbledon FC",1,3,"Sunderland AFC",0,0
+2000,"Newcastle United FC",2,1,"West Ham United FC",2,1
+2000,"Leeds United FC",1,0,"Aston Villa FC",2,3
+2000,"Everton FC",2,1,"Leicester City FC",2,1
+2000,"Derby County FC",2,3,"Watford FC",0,0
+2000,"Coventry City FC",2,1,"Chelsea FC",2,1
+2000,"Bradford City AFC",1,1,"Chelsea FC",1,1
+2000,"Chelsea FC",1,3,"Tottenham Hotspur FC",0,0
+2000,"Sheffield Wednesday FC",2,3,"Bradford City AFC",0,0
+2000,"Arsenal FC",4,3,"Sunderland AFC",1,0
+2000,"West Ham United FC",1,1,"Aston Villa FC",1,1
+2000,"Middlesbrough FC",1,0,"Derby County FC",4,3
+2000,"Everton FC",2,1,"Tottenham Hotspur FC",2,1
+2000,"Coventry City FC",2,3,"Wimbledon FC",0,0
+2000,"Chelsea FC",1,1,"Leicester City FC",1,1
+2000,"Watford FC",2,0,"Liverpool FC",3,3
+2000,"Newcastle United FC",5,3,"Southampton FC",0,0
+2000,"Aston Villa FC",0,1,"Chelsea FC",0,1
+2000,"Tottenham Hotspur FC",0,0,"Sheffield Wednesday FC",1,3
+2000,"Southampton FC",2,3,"Everton FC",0,0
+2000,"Wimbledon FC",2,3,"Newcastle United FC",0,0
+2000,"Leicester City FC",1,0,"West Ham United FC",3,3
+2000,"Derby County FC",0,1,"Coventry City FC",0,1
+2000,"Bradford City AFC",3,3,"Watford FC",2,0
+2000,"Liverpool FC",0,1,"Middlesbrough FC",0,1
+2000,"Sunderland AFC",1,0,"Leeds United FC",2,3
+2000,"Manchester United FC",1,1,"Arsenal FC",1,1
+2000,"Manchester United FC",1,3,"Middlesbrough FC",0,0
+2000,"Sheffield Wednesday FC",0,0,"Manchester United FC",1,3
+2000,"Southampton FC",2,3,"West Ham United FC",1,0
+2000,"Sunderland AFC",2,1,"Newcastle United FC",2,1
+2000,"Tottenham Hotspur FC",0,0,"Chelsea FC",1,3
+2000,"Manchester United FC",3,3,"Coventry City FC",2,0
+2000,"Liverpool FC",3,3,"Leeds United FC",1,0
+2000,"Leicester City FC",2,3,"Middlesbrough FC",1,0
+2000,"Aston Villa FC",4,3,"Watford FC",0,0
+2000,"Bradford City AFC",2,3,"Arsenal FC",1,0
+2000,"Derby County FC",3,1,"Sheffield Wednesday FC",3,1
+2000,"Wimbledon FC",0,0,"Everton FC",3,3
+2000,"Chelsea FC",3,3,"Wimbledon FC",1,0
+2000,"Watford FC",1,1,"Leicester City FC",1,1
+2000,"Sheffield Wednesday FC",0,0,"Southampton FC",1,3
+2000,"West Ham United FC",5,3,"Bradford City AFC",4,0
+2000,"Leeds United FC",1,3,"Tottenham Hotspur FC",0,0
+2000,"Everton FC",2,3,"Derby County FC",1,0
+2000,"Coventry City FC",3,3,"Sunderland AFC",2,0
+2000,"Newcastle United FC",3,3,"Manchester United FC",0,0
+2000,"Arsenal FC",0,0,"Liverpool FC",1,3
+2000,"Middlesbrough FC",0,0,"Aston Villa FC",4,3
+2000,"Middlesbrough FC",2,3,"Coventry City FC",0,0
+2000,"Leeds United FC",0,0,"Manchester United FC",1,3
+2000,"Sunderland AFC",1,1,"Derby County FC",1,1
+2000,"West Ham United FC",0,0,"Everton FC",4,3
+2000,"Wimbledon FC",2,1,"Manchester United FC",2,1
+2000,"Sheffield Wednesday FC",0,0,"Newcastle United FC",2,3
+2000,"Middlesbrough FC",0,1,"Leeds United FC",0,1
+2000,"Coventry City FC",0,0,"Tottenham Hotspur FC",1,3
+2000,"Chelsea FC",2,3,"Watford FC",1,0
+2000,"Arsenal FC",3,3,"Southampton FC",1,0
+2000,"Bradford City AFC",1,1,"Aston Villa FC",1,1
+2000,"Watford FC",1,0,"West Ham United FC",2,3
+2000,"Tottenham Hotspur FC",1,1,"Bradford City AFC",1,1
+2000,"Southampton FC",1,1,"Middlesbrough FC",1,1
+2000,"Newcastle United FC",0,0,"Chelsea FC",1,3
+2000,"Derby County FC",4,3,"Wimbledon FC",0,0
+2000,"Everton FC",1,1,"Sheffield Wednesday FC",1,1
+2000,"Manchester United FC",1,1,"Liverpool FC",1,1
+2000,"Leicester City FC",5,3,"Sunderland AFC",2,0
+2000,"Aston Villa FC",1,1,"Arsenal FC",1,1
+2000,"Leeds United FC",3,3,"Coventry City FC",0,0
+2000,"West Ham United FC",2,3,"Southampton FC",0,0
+2000,"Wimbledon FC",2,3,"Leicester City FC",1,0
+2000,"Tottenham Hotspur FC",7,3,"Southampton FC",2,0
+2000,"Sheffield Wednesday FC",3,3,"West Ham United FC",1,0
+2000,"Newcastle United FC",1,3,"Watford FC",0,0
+2000,"Aston Villa FC",1,3,"Coventry City FC",0,0
+2000,"Liverpool FC",1,1,"Sunderland AFC",1,1
+2000,"Chelsea FC",1,1,"Everton FC",1,1
+2000,"Manchester United FC",3,3,"Derby County FC",1,0
+2000,"Bradford City AFC",1,0,"Leeds United FC",2,3
+2000,"Middlesbrough FC",2,3,"Arsenal FC",1,0
+2000,"Liverpool FC",0,1,"Aston Villa FC",0,1
+2000,"Coventry City FC",1,3,"Everton FC",0,0
+2000,"Sunderland AFC",1,1,"Middlesbrough FC",1,1
+2000,"Watford FC",1,3,"Sheffield Wednesday FC",0,0
+2000,"West Ham United FC",0,1,"Chelsea FC",0,1
+2000,"Southampton FC",2,3,"Aston Villa FC",0,0
+2000,"Leicester City FC",0,0,"Manchester United FC",2,3
+2000,"Coventry City FC",4,3,"Bradford City AFC",0,0
+2000,"Derby County FC",0,0,"Liverpool FC",2,3
+2000,"Leeds United FC",4,3,"Wimbledon FC",1,0
+2000,"Everton FC",0,0,"Newcastle United FC",2,3
+2000,"Arsenal FC",2,3,"Tottenham Hotspur FC",1,0
+2000,"Sunderland AFC",2,3,"Everton FC",1,0
+2000,"Watford FC",1,1,"Tottenham Hotspur FC",1,1
+2000,"Middlesbrough FC",1,3,"Sheffield Wednesday FC",0,0
+2000,"Liverpool FC",2,3,"Newcastle United FC",1,0
+2000,"Chelsea FC",1,1,"Southampton FC",1,1
+2000,"Bradford City AFC",0,0,"Manchester United FC",4,3
+2000,"Aston Villa FC",2,3,"Derby County FC",0,0
+2000,"West Ham United FC",2,3,"Wimbledon FC",1,0
+2000,"Leicester City FC",2,3,"Leeds United FC",1,0
+2000,"Arsenal FC",3,3,"Coventry City FC",0,0
+2000,"Southampton FC",1,0,"Sunderland AFC",2,3
+2000,"Coventry City FC",0,0,"Liverpool FC",3,3
+2000,"Newcastle United FC",2,3,"Bradford City AFC",0,0
+2000,"Manchester United FC",7,3,"West Ham United FC",1,0
+2000,"Leeds United FC",0,0,"Chelsea FC",1,3
+2000,"Everton FC",4,3,"Watford FC",2,0
+2000,"Wimbledon FC",1,0,"Arsenal FC",3,3
+2000,"Derby County FC",3,3,"Leicester City FC",0,0
+2000,"Tottenham Hotspur FC",2,0,"Middlesbrough FC",3,3
+2000,"Sheffield Wednesday FC",0,0,"Aston Villa FC",1,3
+2000,"Watford FC",0,1,"Derby County FC",0,1
+2000,"Sunderland AFC",2,3,"Wimbledon FC",1,0
+2000,"Bradford City AFC",1,0,"Southampton FC",2,3
+2000,"Leicester City FC",1,1,"Everton FC",1,1
+2000,"Liverpool FC",2,3,"Tottenham Hotspur FC",0,0
+2000,"Aston Villa FC",1,3,"Leeds United FC",0,0
+2000,"Middlesbrough FC",3,0,"Manchester United FC",4,3
+2000,"West Ham United FC",2,3,"Newcastle United FC",1,0
+2000,"Chelsea FC",2,3,"Coventry City FC",1,0
+2000,"Wimbledon FC",0,0,"Sheffield Wednesday FC",2,3
+2000,"Tottenham Hotspur FC",2,0,"Aston Villa FC",4,3
+2000,"Southampton FC",2,3,"Watford FC",0,0
+2000,"Sheffield Wednesday FC",1,3,"Chelsea FC",0,0
+2000,"Newcastle United FC",0,0,"Leicester City FC",2,3
+2000,"Manchester United FC",4,3,"Sunderland AFC",0,0
+2000,"Everton FC",4,3,"Bradford City AFC",0,0
+2000,"Coventry City FC",2,3,"Middlesbrough FC",1,0
+2000,"Derby County FC",1,0,"West Ham United FC",2,3
+2000,"Wimbledon FC",1,0,"Liverpool FC",2,3
+2000,"Leeds United FC",0,0,"Arsenal FC",4,3
+2000,"Leicester City FC",0,0,"Tottenham Hotspur FC",1,3
+2000,"Everton FC",0,1,"Liverpool FC",0,1
+2000,"Bradford City AFC",4,1,"Derby County FC",4,1
+2000,"Aston Villa FC",2,1,"Leicester City FC",2,1
+2000,"Tottenham Hotspur FC",2,3,"Wimbledon FC",0,0
+2000,"Southampton FC",1,0,"Manchester United FC",3,3
+2000,"Sheffield Wednesday FC",0,0,"Sunderland AFC",2,3
+2000,"Chelsea FC",1,1,"Middlesbrough FC",1,1
+2000,"West Ham United FC",5,3,"Coventry City FC",0,0
+2000,"Watford FC",2,0,"Arsenal FC",3,3
+2000,"Newcastle United FC",2,1,"Leeds United FC",2,1
+2000,"Sunderland AFC",0,0,"Bradford City AFC",1,3
+2000,"Manchester United FC",3,3,"Chelsea FC",2,0
+2000,"Derby County FC",2,3,"Southampton FC",0,0
+2000,"Watford FC",2,0,"Manchester United FC",3,3
+2000,"West Ham United FC",0,0,"Middlesbrough FC",1,3
+2000,"Aston Villa FC",1,1,"Sunderland AFC",1,1
+2000,"Southampton FC",1,0,"Leicester City FC",2,3
+2000,"Newcastle United FC",2,3,"Coventry City FC",0,0
+2000,"Everton FC",0,0,"Arsenal FC",1,3
+2000,"Chelsea FC",2,3,"Liverpool FC",0,0
+2000,"Tottenham Hotspur FC",1,1,"Derby County FC",1,1
+2000,"Bradford City AFC",3,3,"Wimbledon FC",0,0
+2000,"Sheffield Wednesday FC",0,0,"Leeds United FC",3,3
+2000,"Middlesbrough FC",2,1,"Newcastle United FC",2,1
+2000,"Arsenal FC",2,3,"West Ham United FC",1,0
+2000,"Liverpool FC",0,0,"Leicester City FC",2,3
+2000,"Leeds United FC",3,3,"Watford FC",1,0
+2000,"Arsenal FC",2,3,"Chelsea FC",1,0
+2000,"Wimbledon FC",2,1,"Aston Villa FC",2,1
+2000,"Middlesbrough FC",1,1,"Watford FC",1,1
+2000,"Manchester United FC",3,3,"Tottenham Hotspur FC",1,0
+2000,"Leicester City FC",3,3,"Bradford City AFC",0,0
+2000,"Derby County FC",0,1,"Newcastle United FC",0,1
+2000,"Coventry City FC",4,3,"Sheffield Wednesday FC",1,0
+2000,"Sunderland AFC",1,3,"West Ham United FC",0,0
+2000,"Liverpool FC",0,1,"Southampton FC",0,1
+2000,"Leeds United FC",1,1,"Everton FC",1,1
+2000,"Arsenal FC",3,1,"Sheffield Wednesday FC",3,1
+2000,"Southampton FC",2,3,"Wimbledon FC",0,0
+2000,"Watford FC",1,3,"Coventry City FC",0,0
+2000,"Tottenham Hotspur FC",3,3,"Sunderland AFC",1,0
+2000,"West Ham United FC",0,1,"Leeds United FC",0,1
+2000,"Sheffield Wednesday FC",4,3,"Leicester City FC",0,0
+2000,"Newcastle United FC",4,3,"Arsenal FC",2,0
+2000,"Everton FC",0,0,"Middlesbrough FC",2,3
+2000,"Chelsea FC",4,3,"Derby County FC",0,0
+2000,"Bradford City AFC",1,3,"Liverpool FC",0,0
+2000,"Aston Villa FC",0,0,"Manchester United FC",1,3
